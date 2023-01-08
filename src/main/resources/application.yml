@@ -1,0 +1,9 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /client
+
+api:
+  url: http://localhost:8084/bank/
+  userId: 1
+  token: 44b48d18-6208-42bb-869b-c5520797cfaf
